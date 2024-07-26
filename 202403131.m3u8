@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-5
+https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
+#EXTINF:-1 ,CCTV-5-2
+http://60.221.17.67/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078401.m3u8
+#EXTINF:-1 ,CCTV-5-3
+http://60.221.17.67/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+#EXTINF:-1 ,CCTV-5-4
+https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
